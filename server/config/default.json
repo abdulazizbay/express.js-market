@@ -1,5 +1,0 @@
-{
-    "port":5000,
-    "mongoURI": "mongodb+srv://abdulazizxalilov30:mohlaroyim@cluster0.ltxifzp.mongodb.net/?retryWrites=true&w=majority",
-    "jwtSecret" : "openheimer"
-}
